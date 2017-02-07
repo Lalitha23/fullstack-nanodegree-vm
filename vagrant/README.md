@@ -9,10 +9,10 @@ Setting up OAuth 2.0 1. You will need to signup for a google account and set up 
 
 ####Setting up the Environment
 
-clone or download the repo into vagrant environment.
-Type command vagrant up,vagrant ssh.
-In VM, cd /vagrant/catalog
-Run python database_setup.py to create the database.
-Run Python lotsofmenus.py to add the menu items
-Run python 'project.py'
-open your webbrowser and visit http://localhost:8000/
+* clone or download the repo into vagrant environment.
+* Type command vagrant up,vagrant ssh.
+* In VM, cd /vagrant/catalog
+* Run python database_setup.py to create the database.
+* Run Python lotsofmenus.py to add the menu items
+* Run python 'project.py'
+* open your webbrowser and visit http://localhost:8000/
